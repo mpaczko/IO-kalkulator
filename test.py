@@ -4,5 +4,4 @@ def hello(name):
 def odejmij(a,b):
 	return a-b
 
-
 print("Hello world")
